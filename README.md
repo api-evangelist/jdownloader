@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-JDownloader is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://jdownloader.org/
+JDownloader provides a popular download manager application that simplifies downloading files from the internet. It supports multiple hosters, automatic extraction, captcha solving, and bandwidth management. The company offers both a free version and premium subscriptions, with a focus on user-friendly features and extensive plugin support for various services.
+
+**Areas:** Company · Download-Manager · File-Transfer · Java · Freemium
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://jdownloader.org/)
+- [Support](https://support.jdownloader.org/en)
+- [Blog](https://jdownloader.org/news/blog/dlc-limit)
+- [Terms of service](https://my.jdownloader.org/legal/terms.html)
+- [Privacy policy](https://support.jdownloader.org/en/knowledgebase/article/privacy)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/jdownloader/](https://apis.io/providers/jdownloader/).
